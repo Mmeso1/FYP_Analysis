@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Tableau files
+*.twb
+*.twbx
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+.~*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
